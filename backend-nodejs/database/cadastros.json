@@ -1,0 +1,222 @@
+[
+  {
+    "codigo": "1",
+    "nome": "João",
+    "sobrenome": "Silva",
+    "datanasc": "1985-05-10",
+    "telefone": "(11) 987654321",
+    "end": "Rua A, 123",
+    "cid": "São Paulo",
+    "est": "SP",
+    "status": true
+  },
+  {
+    "codigo": "2",
+    "nome": "Maria",
+    "sobrenome": "Santos",
+    "datanasc": "1990-12-15",
+    "telefone": "(21) 987654321",
+    "end": "Avenida B, 456",
+    "cid": "Rio de Janeiro",
+    "est": "RJ",
+    "status": false
+  },
+  {
+    "codigo": "3",
+    "nome": "Pedro",
+    "sobrenome": "Oliveira",
+    "datanasc": "1988-08-25",
+    "telefone": "(31) 987654321",
+    "end": "Rua C, 789",
+    "cid": "Belo Horizonte",
+    "est": "MG",
+    "status": true
+  },
+  {
+    "codigo": "4",
+    "nome": "Ana",
+    "sobrenome": "Fernandes",
+    "datanasc": "1995-04-01",
+    "telefone": "(41) 987654321",
+    "end": "Avenida D, 101",
+    "cid": "Curitiba",
+    "est": "PR",
+    "status": true
+  },
+  {
+    "codigo": "5",
+    "nome": "Carlos",
+    "sobrenome": "Ribeiro",
+    "datanasc": "1982-11-20",
+    "telefone": "(51) 987654321",
+    "end": "Rua E, 111",
+    "cid": "Porto Alegre",
+    "est": "RS",
+    "status": false
+  },
+  {
+    "codigo": "6",
+    "nome": "Mariana",
+    "sobrenome": "Costa",
+    "datanasc": "1993-07-12",
+    "telefone": "(81) 987654321",
+    "end": "Avenida F, 222",
+    "cid": "Recife",
+    "est": "PE",
+    "status": true
+  },
+  {
+    "codigo": "7",
+    "nome": "Fernando",
+    "sobrenome": "Almeida",
+    "datanasc": "1987-02-18",
+    "telefone": "(62) 987654321",
+    "end": "Rua G, 333",
+    "cid": "Goiânia",
+    "est": "GO",
+    "status": true
+  },
+  {
+    "codigo": "8",
+    "nome": "Camila",
+    "sobrenome": "Martins",
+    "datanasc": "1991-09-05",
+    "telefone": "(48) 987654321",
+    "end": "Avenida H, 444",
+    "cid": "Florianópolis",
+    "est": "SC",
+    "status": false
+  },
+  {
+    "codigo": "9",
+    "nome": "Rafael",
+    "sobrenome": "Gomes",
+    "datanasc": "1989-06-15",
+    "telefone": "(98) 987654321",
+    "end": "Rua I, 555",
+    "cid": "São Luís",
+    "est": "MA",
+    "status": true
+  },
+  {
+    "codigo": "10",
+    "nome": "Larissa",
+    "sobrenome": "Barbosa",
+    "datanasc": "1997-03-28",
+    "telefone": "(84) 987654321",
+    "end": "Avenida J, 666",
+    "cid": "Natal",
+    "est": "RN",
+    "status": true
+  },
+  {
+    "codigo": "11",
+    "nome": "André",
+    "sobrenome": "Ferreira",
+    "datanasc": "1984-12-09",
+    "telefone": "(86) 987654321",
+    "end": "Rua K, 777",
+    "cid": "Teresina",
+    "est": "PI",
+    "status": false
+  },
+  {
+    "codigo": "12",
+    "nome": "Jéssica",
+    "sobrenome": "Carvalho",
+    "datanasc": "1994-10-22",
+    "telefone": "(75) 987654321",
+    "end": "Avenida L, 888",
+    "cid": "Salvador",
+    "est": "BA",
+    "status": true
+  },
+  {
+    "codigo": "13",
+    "nome": "Rodrigo",
+    "sobrenome": "Pereira",
+    "datanasc": "1986-07-04",
+    "telefone": "(92) 987654321",
+    "end": "Rua M, 999",
+    "cid": "Manaus",
+    "est": "AM",
+    "status": true
+  },
+  {
+    "codigo": "14",
+    "nome": "Laura",
+    "sobrenome": "Sousa",
+    "datanasc": "1992-04-17",
+    "telefone": "(63) 987654321",
+    "end": "Avenida N, 1010",
+    "cid": "Palmas",
+    "est": "TO",
+    "status": false
+  },
+  {
+    "codigo": "15",
+    "nome": "Gustavo",
+    "sobrenome": "Lima",
+    "datanasc": "1983-01-28",
+    "telefone": "(95) 987654321",
+    "end": "Rua O, 1111",
+    "cid": "Boa Vista",
+    "est": "RR",
+    "status": true
+  },
+  {
+    "codigo": "16",
+    "nome": "Carolina",
+    "sobrenome": "Mendes",
+    "datanasc": "1996-08-11",
+    "telefone": "(91) 987654321",
+    "end": "Avenida P, 1212",
+    "cid": "Belém",
+    "est": "PA",
+    "status": true
+  },
+  {
+    "codigo": "17",
+    "nome": "Lucas",
+    "sobrenome": "Rocha",
+    "datanasc": "1981-05-26",
+    "telefone": "(94) 987654321",
+    "end": "Rua Q, 1313",
+    "cid": "Macapá",
+    "est": "AP",
+    "status": false
+  },
+  {
+    "codigo": "18",
+    "nome": "Amanda",
+    "sobrenome": "Correia",
+    "datanasc": "1993-02-07",
+    "telefone": "(96) 987654321",
+    "end": "Avenida R, 1414",
+    "cid": "Porto Velho",
+    "est": "RO",
+    "status": true
+  },
+  {
+    "codigo": "19",
+    "nome": "Diego",
+    "sobrenome": "Sousa",
+    "datanasc": "1989-11-18",
+    "telefone": "(69) 987654321",
+    "end": "Rua S, 1515",
+    "cid": "Rio Branco",
+    "est": "AC",
+    "status": true
+  },
+  {
+    "codigo": "20",
+    "nome": "Patrícia",
+    "sobrenome": "Gonçalves",
+    "datanasc": "1990-06-30",
+    "telefone": "(67) 987654321",
+    "end": "Avenida T, 1616",
+    "cid": "Campo Grande",
+    "est": "MS",
+    "status": false
+  }
+]
