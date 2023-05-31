@@ -7,7 +7,7 @@ var logger = require('morgan');
 // var cors = require('cors');
 
 var indexRouter = require('./routes/indexRouter');
-var movieRouter = require('./routes/movieRouter');
+var cadastroRouter = require('./routes/cadastroRouter');
 
 var app = express();
 app.set('views', path.join(__dirname, 'views'));
@@ -19,7 +19,7 @@ app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 
 app.use('/', indexRouter);
-app.use('/movie', movieRouter);
+app.use('/cadastro', cadastroRouter);
 
 app.use(function(req, res, next) {
   next(createError(404));
