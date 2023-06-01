@@ -5,11 +5,12 @@ const cadSchema = new mongoose.Schema({
     id: Number,
     nome: String,
     sobrenome: String,
-    datanasc: String,
+    dataNascimento: String,
     telefone: Number,
-    end: String,
-    cid: String,
-    est: String,
+    endereco: String,
+    cidade: String,
+    image: String,
+    estado: String,
     status: Boolean
 });
 

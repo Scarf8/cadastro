@@ -19,7 +19,7 @@
     "endereco": "Avenida Principal 789",
     "cidade": "São Paulo",
     "estado": "SP",
-    "status": true
+    "status": false
   },
   {
     "id": 3,
@@ -41,7 +41,7 @@
     "endereco": "Avenida Central 456",
     "cidade": "Rio de Janeiro",
     "estado": "RJ",
-    "status": true
+    "status": false
   },
   {
     "id": 5,

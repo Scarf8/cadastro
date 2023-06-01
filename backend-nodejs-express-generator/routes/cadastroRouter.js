@@ -1,4 +1,4 @@
-import ImageController from '../controllers/ImageController';
+const imageController = require ('../controllers/ImageController');
 const express = require('express');
 const router = express.Router();
 const cadasController = require('../controllers/CadasController');
@@ -11,8 +11,7 @@ router.post('/', cadasController.salvar);
 router.get('/:id', cadasController.buscarPorId);
 router.put('/:id', cadasController.atualizar);
 router.delete('/:id', cadasController.excluir);
-
-router.post('/image/:id', addImage.single('image'), ImageController.create )
+router.post('/image/:id', addImage.single('image'), imageController.create )
 
 module.exports = router;
 
